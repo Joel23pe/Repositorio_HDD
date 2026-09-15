@@ -1,6 +1,3 @@
-from clase_persona import Persona
-from clase_estudiante import Estudiante
-
 persona = Persona("Felipe Contreras", 28)
 print(persona)
 persona.nombre = "Felipe Carrasco"
