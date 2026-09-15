@@ -2,6 +2,9 @@ from clase_persona import Persona
 from clase_estudiante import Estudiante
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Programador3
 persona = Persona("Felipe Contreras", 28)
 =======
 persona = Persona("Felipe Cantuarias", 68)
@@ -19,6 +22,7 @@ estudiante.curso = "SQL Server"
 estudiante.universidad = "UNMSM"
 print(estudiante)
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 estudiante.curso = "SQL Server"
 estudiante.universidad = "UNMSM"
@@ -27,3 +31,5 @@ estudiante.universidad = "UNI"
 print(estudiante)
 =======
 >>>>>>> Programador2
+=======
+>>>>>>> Programador3
